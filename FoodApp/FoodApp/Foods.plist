@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Coffe</string>
+		<key>Image</key>
+		<string>cofepot</string>
+		<key>Des</key>
+		<string>take it early day</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Expresso</string>
+		<key>Image</key>
+		<string>expreso</string>
+		<key>Des</key>
+		<string>Is a drink very hard</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>French Fries</string>
+		<key>Image</key>
+		<string>frenchfries</string>
+		<key>Des</key>
+		<string>is a delicius potatoes for you healthi</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Honey</string>
+		<key>Image</key>
+		<string>honey</string>
+		<key>Des</key>
+		<string>Is a delicius for you mouth</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Strawberry</string>
+		<key>Image</key>
+		<string>strawberry</string>
+		<key>Des</key>
+		<string>Is good for a day sunny</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sugar</string>
+		<key>Image</key>
+		<string>sugar</string>
+		<key>Des</key>
+		<string>The sugar is good element for you coffe</string>
+	</dict>
+</array>
+</plist>
